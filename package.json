@@ -1,0 +1,15 @@
+{
+  "name": "kata-recover-a-secret-string-from-random-triplets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.0.2"
+  }
+}
